@@ -19,7 +19,7 @@ Or, alternatively (for Chrome & non-Chrome), install CocosDesktop Wallet
 [CocosDesktop for Windows](https://cocosbcx.oss-cn-beijing.aliyuncs.com/CocosDesktop.exe)  
 
 ### Login  
-Open wallet to sign in or sign up  
+Open wallet, set to English, set to TESTNET, then sign in or sign up for an account.
 
 
 ## Build and Run
@@ -33,6 +33,8 @@ yarn serve
 ## Open App in Browser
 
 App should be available at: http://localhost:8080/
+
+Your first interaction will show a dialogue, check the checkbox bottom left and the press ok (dialogue may be in chinese).
 
 ``` test
 Notice: 
